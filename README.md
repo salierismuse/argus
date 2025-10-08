@@ -1,0 +1,1 @@
+Sentinel is a SOC-Lite detection system built with Java and Spring Boot that ingests, normalizes, and analyzes application logs to identify security threats. It provides real-time detection of brute-force attacks, impossible travel patterns, and behavioral anomalies—giving you production-grade security monitoring without the enterprise overhead.
